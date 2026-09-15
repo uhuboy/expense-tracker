@@ -27,7 +27,7 @@
 ### ขั้นตอนการรัน
 1. Clone โปรเจกต์นี้:
    ```bash
-   git clone https://github.com/your-username/expense-tracker.git
+   git clone https://github.com/uhuboy/expense-tracker.git
    cd expense-tracker
    ```
 2. รันโปรแกรมในบทที่ต้องการ (เช่น บทที่ 9):
